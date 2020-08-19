@@ -21,4 +21,5 @@ def breed
   def breed
     @breed
   end
-end
+end 
+end 
